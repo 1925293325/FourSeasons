@@ -1,3 +1,4 @@
+# 🌸 FourSeasons - 四季特效插件 for Typecho 1.3.0
 
 为 Typecho 博客添加四季粒子特效，支持春/夏/秋/冬四种场景独立开关控制，并支持简约模式切换。
 
@@ -70,5 +71,4 @@ MIT License
 
 **作者**：Lin.
 **链接**：https://linyu.live/
-
 
